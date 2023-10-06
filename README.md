@@ -2,7 +2,7 @@
 
 Tengu is a Phishing tool based on BlackEye by @thelinuxchoice. It comes with a default template and ability to import custom pages.
 
-![image](https://github.com/Smarttfoxx/tengu/assets/140526026/fff8cc33-c2a6-484a-9853-7f48fec71273)
+![tengu banner](https://github.com/Smarttfoxx/tengu/assets/140526026/6109a4f1-41ba-4444-9c9c-ed9a5c7313ba)
 
 ## How to use:
 
