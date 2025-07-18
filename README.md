@@ -16,4 +16,4 @@ bash tengu.sh
 BlackEye by: @thelinuxchoice (https://github.com/thelinuxchoice/blackeye)
 
 ## Legal disclaimer
-Don't use Tengu against a target without permission. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse of this tool. Use only for educational purposes.
+Don't use Tengu against a target without permission. It's the end user's responsibility to obey all applicable local, state and federal laws. The developer assume no liability and is not responsible for any misuse of this tool.
